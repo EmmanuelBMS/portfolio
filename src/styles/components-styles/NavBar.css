@@ -5,6 +5,9 @@
   background-color: #03001C;
   align-items: center;
   justify-content: space-evenly;
+  top: 0;
+  left: 0;
+  border-bottom: 1px solid #B6EADA;
 }
 
 .header-father-div-title-img {

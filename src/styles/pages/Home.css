@@ -1,0 +1,12 @@
+.section {
+  width: 100%;
+  height: 100vh;
+  background-color: #03001C;
+  margin-top: 106px;
+}
+
+.section-main-div {
+  padding: 2% 17%;
+  text-align: justify;
+  margin: auto;
+}
