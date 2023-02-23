@@ -1,0 +1,34 @@
+.mobile-navbar-father-div {
+  display: flex;
+  width: 100%;
+  position: fixed;
+  background-color: #03001C;
+  align-items: center;
+  justify-content: space-evenly;
+  top: 0;
+  left: 0;
+}
+
+.mobile-navbar-foto-title-div {
+  display: flex;
+  align-items: center;
+  padding: 2% 1%;
+}
+
+.mobile-navbar-foto-title-div span {
+  margin-left: 10px;
+}
+
+.mobile-navbar-photo {
+  width: 70px;
+  border-radius: 50%;
+}
+
+.mobile-navbar-menu-icon svg{
+  font-size: 38px;
+  opacity: 0.75;
+}
+
+.mobile-menu-div {
+  display: none;
+}
